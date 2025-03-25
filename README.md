@@ -49,21 +49,20 @@ Windowsの設定ソフトを用いてキーボードやマウス、
 
 ## [マニュアルはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/blob/79f3ab2f346e897c7c09eb0937247e94484a021f/Manual/ADDEGA-C_Manual.pdf)
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/App)  
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/blob/0289a2fcecbe119984234a0892d871d0922a9b88/App/USB_DELEGATOR_CT_v200.zip)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Firmware)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/tree/0289a2fcecbe119984234a0892d871d0922a9b88/Firmware)
 
-## [Q&A](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/blob/0289a2fcecbe119984234a0892d871d0922a9b88/FAQ.md)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/App_source)  
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/tree/0289a2fcecbe119984234a0892d871d0922a9b88/App_source)  
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Firmware_source)
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/tree/0289a2fcecbe119984234a0892d871d0922a9b88/Firmware_source)
 
-### [外形図](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Dimensions)
+### [外形図](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/tree/0289a2fcecbe119984234a0892d871d0922a9b88/Dimensions)
 
-### [回路図](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/blob/master/Schematics/AD00009_schematics.pdf)
+### [回路図](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/blob/0289a2fcecbe119984234a0892d871d0922a9b88/Schematics/%E5%9B%9E%E8%B7%AF%E5%9B%B320250108.pdf)
 
-### [部品表](https://github.com/bit-trade-one/AD00009-USB_DELEGATER/tree/master/Partslist)
 
 
 ## 作例
