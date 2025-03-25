@@ -20,7 +20,7 @@
 https://bit-trade-one.co.jp/ad00009manual/
 
 
-## Q.AD00009、AD00009Bの違いは何ですか？
+## Q.AD00009、AD00009Bとの違いは何ですか？
 
 ### A.コネクタがUSB Type-Cになります。  
 
