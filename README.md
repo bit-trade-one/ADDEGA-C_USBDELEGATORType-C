@@ -49,7 +49,7 @@ Windowsの設定ソフトを用いてキーボードやマウス、
 
 ## [マニュアルはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/blob/79f3ab2f346e897c7c09eb0937247e94484a021f/Manual/ADDEGA-C_Manual.pdf)
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/blob/0289a2fcecbe119984234a0892d871d0922a9b88/App/USB_DELEGATOR_CT_v200.zip)  
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/tree/066b4512abc52dea91528ccbbd547c5b463d0ae4/App)  
 
 ## [ファームウェアはこちら](https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C/tree/0289a2fcecbe119984234a0892d871d0922a9b88/Firmware)
 
